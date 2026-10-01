@@ -12,3 +12,4 @@ One thing wasn't.
 
 I stopped maintaining it a long time ago,
 but I never took the page down.
+https://aaravam-27.github.io/midnight-notes/
